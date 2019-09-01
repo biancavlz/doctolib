@@ -1,6 +1,6 @@
 # README
 
-# Gets available hours for an specific date
+# Gets available hours for a specific date
 
 This is a basic aplication
 All you need in order to run this small application is:
